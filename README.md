@@ -1,2 +1,4 @@
 # git-intern-taskOne
 Online Reservation System
+Task-1 Online Reservation System : 
+In this task : This is a Java code for an online reservation system.There are three modules : Login form , Reservation System and Cancelation form. It has three classes: Train, Reservation, and Database. The Train class represents a train with its number, name, and available class types. The Reservation class represents a reservation with its passenger reservation number (PRN), train object, class type, date of journey, from place, and destination. The Database class represents the database with its list of trains and reservations.The basic idea is to save data in a central database , which can be accessed by any authorizen person to get information and saves time and burden , which are being faced by their customers.
